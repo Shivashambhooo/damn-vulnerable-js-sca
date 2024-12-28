@@ -16,7 +16,7 @@
   "safer-eval": "1.3.3",
   "styletron-engine-atomic": "1.5.0",
   "styletron-react": "6.1.0",
-  "systeminformation": "5.0.0"
+  "systeminformation": "5.23.8"
 },
   "devDependencies": {"typescript": "^4.8.4",
   "@types/react": "^17.0.39",
