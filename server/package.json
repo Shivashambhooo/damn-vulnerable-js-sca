@@ -36,7 +36,7 @@
   "secure-password": "^4.0.0",
   "dotenv": "16.0.2",
   "helmet": "^6.0.0",
-  "patch-package": "^6.4.7",
+  "patch-package": "^8.0.1",
   "uuid": "^9.0.0",
   "lodash": "^4.17.21",
   "baseui": "12.2.0",
